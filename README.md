@@ -10,3 +10,8 @@ npm install
 After installing npm packages, the application will be invoked by using the following command:
 
 npm run develop
+
+## Questions
+
+For any questions, please contact me at rlsjr2@live.com. You can also find more of my work at [DenimB96](https://github.com/DenimB96/).
+
